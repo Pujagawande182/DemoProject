@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-12T17:21:33 IST" name="Default suite" finished-at="2025-08-12T17:23:37 IST" duration-ms="124446">
+    <groups>
+    </groups>
+    <test started-at="2025-08-12T17:21:33 IST" name="Default test" finished-at="2025-08-12T17:23:37 IST" duration-ms="124446">
+      <class name="com.testcases.HandlingDropDown">
+        <test-method signature="verifyDropDown()[pri:0, instance:com.testcases.HandlingDropDown@a1153bc]" started-at="2025-08-12T17:21:33 IST" name="verifyDropDown" finished-at="2025-08-12T17:23:37 IST" duration-ms="124325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropDown -->
+      </class> <!-- com.testcases.HandlingDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
